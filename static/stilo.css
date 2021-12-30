@@ -1,0 +1,19 @@
+body{
+    background: white;
+}
+.txtfoto{
+   font-size: 60px;
+}
+
+.imgfoto{
+    width: 150px;
+    height: 150px;
+}
+
+div{
+    vertical-align: top;
+}
+
+img{
+    vertical-align: top;
+}
